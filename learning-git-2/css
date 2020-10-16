@@ -1,11 +1,14 @@
-<!DOCTYPE html>
-<html lang="pl">
-  <head>
-      <meta charset="utf-8">
-      <title>Pora deszczowa</title>
-      <link rel="stylesheet" href="css">
-  </head>
-  <body>
+h1 {
+text-align: center;
+color: black;
+}
 
-  </body>
-</html>
+h3{
+text-align: center;
+color: grey;
+}
+
+h4{
+text-align: center;
+color: grey;
+}
