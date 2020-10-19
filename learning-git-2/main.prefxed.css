@@ -1,0 +1,29 @@
+h1 {
+text-align: center;
+color: black;
+}
+
+h3{
+text-align: center;
+color: grey;
+}
+
+h4{
+text-align: center;
+color: grey;
+}
+
+body {
+    background: silver;
+   }
+
+.container {
+ max-width: 600px;
+ width: 70%;
+ margin: 70px auto;
+ text-align: justify;
+	line-height: 27px;
+ background-color: white;
+ padding: 20px 50px;
+   
+				}

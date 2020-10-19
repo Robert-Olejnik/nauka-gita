@@ -1,0 +1,23 @@
+{
+  "name": "nauka-gita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert-Olejnik/nauka-gita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert-Olejnik/nauka-gita/issues"
+  },
+  "homepage": "https://github.com/Robert-Olejnik/nauka-gita#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}

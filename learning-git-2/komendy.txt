@@ -1,0 +1,17 @@
+Instalacja:
+
+$ npm install --save-dev -g html-validate
+
+
+Polecenie:
+
+$ html-validate index.html
+
+
+Instalacja:
+
+$ npm install --save-dev -g autoprefixer-cli
+
+Polecenie:
+
+$ autoprefixer-cli -o main.prefxed.css ./css
